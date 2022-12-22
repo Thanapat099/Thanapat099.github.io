@@ -248,7 +248,7 @@ nav ul li a {
     margin-top: -5rem;
     display: flex;
     text-align: center;
-    /* border: 1px solid red; */
+    border: 1px solid red;
 }
 
 .price-info {
@@ -267,7 +267,7 @@ nav ul li a {
     line-height: 26px;
     text-align: right;
     margin-top: 3rem;
-    border: 1px solid red;
+    /* border: 1px solid red; */
 }
 
 .fourty {
