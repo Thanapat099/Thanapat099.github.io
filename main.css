@@ -267,6 +267,7 @@ nav ul li a {
     line-height: 26px;
     text-align: right;
     margin-top: 3rem;
+    border: 1px solid red;
 }
 
 .fourty {
